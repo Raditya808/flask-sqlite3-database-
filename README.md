@@ -1,4 +1,4 @@
-<div align="center"><img src="https://raw.githubusercontent.com/pallets/flask/refs/heads/stable/docs/_static/flask-name.svg" alt="" height="150"></div>
+<div align="center"><img src="static/flaskstack.png" alt="" height="150"></div>
 
 # Flask
 
@@ -114,7 +114,7 @@ By default the app will be available at http://127.0.0.1:5000 — open this in y
 
 ## License
 
-If you want to include a license, add a `LICENSE` file. Otherwise consider adding an MIT or other permissive license.
+If you want to include a license, add a `LICENSE` file. Otherwise consider adding an MIT or other permissive license
 
 ---
 
