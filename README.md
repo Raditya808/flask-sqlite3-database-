@@ -114,7 +114,7 @@ By default the app will be available at http://127.0.0.1:5000 — open this in y
 
 ## License
 
-If you want to include a license, add a `LICENSE` file. Otherwise consider adding an MIT or other permissive license.
+If you want to include a license, add a `LICENSE` file. Otherwise consider adding an MIT or other permissive license
 
 ---
 
